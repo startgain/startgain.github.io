@@ -1,0 +1,24 @@
+{
+  "name": "startgain.github.io",
+  "version": "1.0.0",
+  "description": "|      | 掘金 | b站  | | ---- | ---- | ---- | |      |      |      | |      |      |      | |      |      |      |",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startgain/startgain.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/startgain/startgain.github.io/issues"
+  },
+  "homepage": "https://github.com/startgain/startgain.github.io#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2"
+  }
+}
